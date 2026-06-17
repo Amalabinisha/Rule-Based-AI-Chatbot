@@ -1,4 +1,4 @@
-# RULE-BASED AI CHATBOT (RuleBot)
+# Project 1: RULE-BASED AI CHATBOT (RuleBot)
 
 ## 1. PROJECT OVERVIEW
 
@@ -238,6 +238,3 @@ By developing this project, the following concepts are demonstrated:
 * White-box system design
 
 ---
-
-
-**Objective:** Build the foundational structure that supports intelligent decision-making using transparent and deterministic rules.
