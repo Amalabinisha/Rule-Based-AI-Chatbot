@@ -1,0 +1,59 @@
+[2026-06-15 17:48:38] You: help
+[2026-06-15 17:48:38] RuleBot: I understand these commands:
+- bye
+- date
+- exit
+- good evening
+- good morning
+- goodbye
+- hello
+- hey
+- hi
+- how are you
+- joke
+- ok
+- quit
+- thank you
+- thanks
+- time
+- what can you do
+- what is a chatbot
+- what is ai
+- what is python
+- what is your name
+- who are you
+- who created you
+
+[2026-06-15 17:48:46] You: good evening
+[2026-06-15 17:48:46] RuleBot: Good evening! What can I do for you?
+
+[2026-06-15 17:48:59] You: HELLO
+[2026-06-15 17:48:59] RuleBot: Hi there! I am RuleBot. I know 24 commands.
+
+[2026-06-15 17:49:17] You: That's good
+[2026-06-15 17:49:17] RuleBot: I do not understand that. Type 'help' to see all my commands.
+
+[2026-06-15 17:49:32] You: can you tell me a joke
+[2026-06-15 17:49:32] RuleBot: I do not understand that. Type 'help' to see all my commands.
+
+[2026-06-15 17:49:36] You: joke
+[2026-06-15 17:49:36] RuleBot: Why do programmers prefer dark mode? Because light attracts bugs!
+
+[2026-06-15 17:49:57] You: what can you do
+[2026-06-15 17:49:57] RuleBot: I respond to 24 predefined commands using hash maps.
+
+[2026-06-15 17:50:15] You: what is AI?
+[2026-06-15 17:50:15] RuleBot: I do not understand that. Type 'help' to see all my commands.
+
+[2026-06-15 17:50:23] You: What is AI
+[2026-06-15 17:50:23] RuleBot: AI means Artificial Intelligence. I am a simple rule-based example.
+
+[2026-06-15 17:50:33] You: who are you
+[2026-06-15 17:50:33] RuleBot: I am a rule-based chatbot using Python dictionaries.
+
+[2026-06-15 17:50:41] You: thank you
+[2026-06-15 17:50:41] RuleBot: Happy to help anytime!
+
+[2026-06-15 17:50:47] You: quit
+[2026-06-15 17:50:47] RuleBot: Quit command received. Goodbye!
+
